@@ -2,8 +2,8 @@ public class CardValidation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//String n="5241933970880001";
-		String n="5166401640001573";
+		
+		String n="4567891239876543";
 		
 		/* First 6 digit : Bank Identification No.
 		 * Next 9 digits : linked to account no
